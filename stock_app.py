@@ -550,8 +550,6 @@ def update_datatable(start_date, end_date, n):
 
 
 
-#app.css.append_css({'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'})
-
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
     # app.run_server(host='0.0.0.0', port=9000)
