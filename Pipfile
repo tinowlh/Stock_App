@@ -8,6 +8,7 @@ dash = "*"
 pandas = "*"
 scikit-learn = "*"
 dash-table = "*"
+pylint = "*"
 
 [dev-packages]
 
