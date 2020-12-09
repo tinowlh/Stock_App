@@ -4,6 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+dash = "*"
+pandas = "*"
+scikit-learn = "*"
+dash-table = "*"
 
 [dev-packages]
 
