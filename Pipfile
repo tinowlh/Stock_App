@@ -9,6 +9,7 @@ pandas = "*"
 scikit-learn = "*"
 dash-table = "*"
 pylint = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
 
